@@ -1,0 +1,2 @@
+# Wallpapers
+No art here is mine. All images remain property of their original owners. If you want to check the source, you just have to pick the code after "wallhaven" (e.g. in "wallhaven-l8wpmr.jpg" the code is "l8wpmr"), and put it after "https://wallhaven.cc/w/" (in this case it would be "https://wallhaven.cc/w/l8wpmr"). It will lead you to the wallhaven page of the given wallpaper. There you should find a source section if available. Some arts have their credits on themselves.
